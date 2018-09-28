@@ -58,7 +58,8 @@ a{
     color: yellow;
 }*/
 /*CONFLICTS AND SPECIFICITY*/
-#mainContent p{
+
+/*#mainContent p{
     color: red;
 }
 
@@ -67,4 +68,11 @@ p{
 }
 strong{
     color: green;
+}*/
+/*The IMPORTANT DECLARATION*/
+/*p {
+    color: red !important;
 }
+#mainContent p{
+    color: green;
+}*/
