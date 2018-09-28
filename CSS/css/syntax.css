@@ -94,9 +94,17 @@ strong{
 /*TARGETING MULTIPLE ELEMENTS*/
 
 
-p, span, a, li{
+/*p, span, a, li{
     color: red;
     font-size: 14px;
     font-weight: bold;
     font-family: Arial, serif;
+}*/
+
+
+/*DESCENDANTS*/
+
+
+#subContent p{
+    color: red;
 }
