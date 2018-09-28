@@ -1,4 +1,6 @@
 /*Targeting ELEMENTS / TAGS*/
+
+
 /*p{
     font-size:12px;
     color: red;
@@ -20,7 +22,11 @@ div{
     background-color: grey;
 }
 */
+
+
 /*Targeting ELEMENTS / TAGS*/
+
+
 /*h2{
     font-size: 24px;
 }
@@ -36,7 +42,11 @@ span{
 .deck{
     color: red;
 }*/
+
+
 /*Conflicts and Cascade*/
+
+
 /*span{
     color: blue;
 }
@@ -57,7 +67,10 @@ p{
 a{
     color: yellow;
 }*/
+
+
 /*CONFLICTS AND SPECIFICITY*/
+
 
 /*#mainContent p{
     color: red;
@@ -76,3 +89,14 @@ strong{
 #mainContent p{
     color: green;
 }*/
+
+
+/*TARGETING MULTIPLE ELEMENTS*/
+
+
+p, span, a, li{
+    color: red;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial, serif;
+}
