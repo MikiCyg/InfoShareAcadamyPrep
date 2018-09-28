@@ -44,7 +44,7 @@ span{
 span{
     color: red;
 }*/
-body{
+/*body{
     color:red;
 
 }
@@ -56,4 +56,15 @@ p{
 }
 a{
     color: yellow;
+}*/
+/*CONFLICTS AND SPECIFICITY*/
+#mainContent p{
+    color: red;
+}
+
+p{
+    color:black;
+}
+strong{
+    color: green;
 }
