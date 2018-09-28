@@ -37,10 +37,23 @@ span{
     color: red;
 }*/
 /*Conflicts and Cascade*/
-span{
+/*span{
     color: blue;
 }
 
 span{
     color: red;
+}*/
+body{
+    color:red;
+
+}
+div{
+    color: #dab420;
+}
+p{
+    color: green;
+}
+a{
+    color: yellow;
 }
