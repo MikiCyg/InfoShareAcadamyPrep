@@ -113,6 +113,14 @@ strong{
 /*CHildren & Children SELECTORS*/
 
 
-#mainContent > p{
+/*#mainContent > p{
     color: red;
+}*/
+
+
+/*Adjacent Selectors*/
+
+
+#allArticles h2 + p{
+    color: green;
 }
