@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df059346-5934-4bd1-bffd-dff911840cd4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/articles.html" afterPath="$PROJECT_DIR$/CSS/articles.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CSS/css/syntax.css" afterPath="$PROJECT_DIR$/CSS/css/syntax.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,8 +36,18 @@
       <file leaf-file-name="syntax.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSS/css/syntax.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="785">
-              <caret line="178" column="0" lean-forward="true" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+            <state relative-caret-position="749">
+              <caret line="193" column="17" lean-forward="false" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lists.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CSS/lists.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -88,6 +97,7 @@
         <option value="$PROJECT_DIR$/CSS/index.html" />
         <option value="$PROJECT_DIR$/CSS/contact.html" />
         <option value="$PROJECT_DIR$/CSS/articles.html" />
+        <option value="$PROJECT_DIR$/CSS/lists.html" />
         <option value="$PROJECT_DIR$/CSS/css/syntax.css" />
       </list>
     </option>
@@ -165,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.firstPage.html">
+  <component name="RunManager" selected="JavaScript Debug.lists.html">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -248,9 +258,15 @@
       <listeners />
     </configuration>
     <configuration name="firstPage.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/InfoShareAcadamyPrep/infoSharePreperation/html/firstPage.html" />
+    <configuration name="lists.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/InfoShareAcadamyPrep/infoSharePreperation/CSS/lists.html" />
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.firstPage.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.lists.html" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.firstPage.html" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.lists.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.firstPage.html" />
       </list>
     </recent_temporary>
   </component>
@@ -269,12 +285,12 @@
       <workItem from="1538125032540" duration="5120000" />
       <workItem from="1538162344627" duration="10000" />
       <workItem from="1538168844468" duration="2875000" />
-      <workItem from="1538213402350" duration="3519000" />
+      <workItem from="1538213402350" duration="4108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19765000" />
+    <option name="totallyTimeSpent" value="20354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="-4" width="1857" height="987" extended-state="6" />
@@ -505,10 +521,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/lists.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CSS/css/syntax.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="785">
-          <caret line="178" column="0" lean-forward="true" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+        <state relative-caret-position="749">
+          <caret line="193" column="17" lean-forward="false" selection-start-line="193" selection-start-column="17" selection-end-line="193" selection-end-column="17" />
           <folding />
         </state>
       </provider>
