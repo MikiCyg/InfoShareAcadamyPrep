@@ -179,9 +179,9 @@ article p:last-of-type{
 /*NTH Child Pseudo Class*/
 
 
-li:nth-child(1), li:nth-child(7){
-    font-weight: bold;
-}
+/*li:nth-child(1), li:nth-child(7){*/
+    /*font-weight: bold;*/
+/*}*/
 
 /*li:nth-child(even){*/
     /*background: red;*/
@@ -190,6 +190,20 @@ li:nth-child(1), li:nth-child(7){
     /*background: pink;*/
 /*}*/
 
-li:nth-child(2n + 1){
-    color: green;
+/*li:nth-child(2n + 1){*/
+    /*color: green;*/
+/*}*/
+
+
+/*Nth child pseudo Class cont*/
+
+
+article:nth-of-type(1){
+    background-color: grey;
+
+}
+
+article:nth-of-type(odd){
+    background-color: grey;
+
 }
