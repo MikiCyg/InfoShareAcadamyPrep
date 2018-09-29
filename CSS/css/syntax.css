@@ -129,7 +129,7 @@ strong{
 /*Attribute Selectors*/
 
 
-span[class ~="deck"]{
+/*span[class ~="deck"]{
     color: purple;
 }
 
@@ -138,5 +138,13 @@ div [id]{
 }
 
 a[title="Search engine"]{
+    color: red;
+}*/
+
+
+/*Pseudo Selectors*/
+
+
+a:hover{
     color: red;
 }
