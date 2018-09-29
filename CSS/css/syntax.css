@@ -105,6 +105,14 @@ strong{
 /*DESCENDANTS*/
 
 
-#subContent p{
+/*#subContent p{
+    color: red;
+}*/
+
+
+/*CHildren & Children SELECTORS*/
+
+
+#mainContent > p{
     color: red;
 }
