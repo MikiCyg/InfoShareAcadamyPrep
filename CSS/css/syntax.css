@@ -145,6 +145,21 @@ a[title="Search engine"]{
 /*Pseudo Selectors*/
 
 
+/*a:hover{
+    color: red;
+}*/
+
+
+/*Hover & Visited & Active classes*/
+
+
 a:hover{
     color: red;
+}
+
+a:active{
+    color:orange;
+}
+a:visited{
+    color: purple;
 }
