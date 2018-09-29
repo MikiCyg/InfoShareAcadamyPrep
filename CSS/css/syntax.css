@@ -198,12 +198,24 @@ article p:last-of-type{
 /*Nth child pseudo Class cont*/
 
 
-article:nth-of-type(1){
-    background-color: grey;
+/*article:nth-of-type(1){*/
+    /*background-color: grey;*/
 
+/*}*/
+
+/*article:nth-of-type(odd){*/
+    /*background-color: grey;*/
+
+/*}*/
+
+
+/*Combinig Selectors*/
+
+
+article.featuredContent{
+    background: red;
 }
 
-article:nth-of-type(odd){
-    background-color: grey;
-
+div.featuredContent{
+    background: blue;
 }
