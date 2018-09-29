@@ -153,7 +153,7 @@ a[title="Search engine"]{
 /*Hover & Visited & Active classes*/
 
 
-a:hover{
+/*a:hover{
     color: red;
 }
 
@@ -162,4 +162,17 @@ a:active{
 }
 a:visited{
     color: purple;
+}*/
+
+
+/*First & Last child Pseudo Class*/
+
+
+/*article p:first-child{
+    font-weight:bold;
 }
+article p:last-child{
+    color: red;
+}*/
+
+
