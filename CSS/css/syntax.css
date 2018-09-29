@@ -121,6 +121,22 @@ strong{
 /*Adjacent Selectors*/
 
 
-#allArticles h2 + p{
+/*#allArticles h2 + p{
     color: green;
+}*/
+
+
+/*Attribute Selectors*/
+
+
+span[class ~="deck"]{
+    color: purple;
+}
+
+div [id]{
+    background: grey;
+}
+
+a[title="Search engine"]{
+    color: red;
 }
