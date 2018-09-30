@@ -212,10 +212,13 @@ article p:last-of-type{
 /*Combinig Selectors*/
 
 
-article.featuredContent{
-    background: red;
-}
+/*article.featuredContent{*/
+    /*background: red;*/
+/*}*/
 
-div.featuredContent{
-    background: blue;
-}
+/*div.featuredContent{*/
+    /*background: blue;*/
+/*}*/
+
+
+/*Universal Selecotrs*/
